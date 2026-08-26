@@ -83,6 +83,19 @@ The final part of the project uses `ipywidgets` to create a simple graphical int
 - Send the prompt to Qwen 3
 - View the generated response
 
+## 📸 Demo
+
+### SQL & Data Analyst Assistant
+
+I customized the system prompt to create a chatbot focused on SQL, data cleaning, NULL values, and data standardization.
+
+![SQL Data Analyst Chatbot](sql-data-analyst-chatbot.png)
+
+### Interactive Chatbot on AMD MI300
+
+I also tested the final interactive interface with adjustable generation parameters, including Temperature, Max Tokens, and Top P.
+
+![AI Chatbot on AMD MI300](chatbot-gui.png)
 ---
 
 ## 🧠 What I Learned
