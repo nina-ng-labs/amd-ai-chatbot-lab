@@ -157,6 +157,12 @@ Completed: **August 2026**
 
 The hands-on lab covered Generative AI inference, system prompting, generation parameters, vLLM, and running an LLM workload on AMD hardware.
 
+### Certificate
+
+![AI on AMD Certificate](amd-ai-on-amd-certificate.png)
+
+**Certificate of Completion — AI on AMD, AMD AI Academy**  
+Completed: August 2026
 ---
 
 ## 📌 Note
